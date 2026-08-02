@@ -1,0 +1,21 @@
+{
+  "PlayerData": [
+    {
+      "ID": 8210,
+      "Forename": "Nabil",
+      "Surname": "Nacif",
+      "ImageURL": "https://img.a.transfermarkt.technology/portrait/big/1384300-1762505664.jpg?lm=1",
+      "Age": 17,
+      "Height": 178,
+      "Rating": 62,
+      "Position": "ST"
+    }
+  ],
+  "ClubData": [
+    {
+      "ID": 1407,
+      "Name": "Oriente Petrolero",
+      "ShortName": "OPE"
+    }
+  ]
+}
